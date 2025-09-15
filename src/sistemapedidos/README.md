@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Pedidos
 
-[cite_start]Este projeto é uma solução em Java para gerenciamento de pedidos de um restaurante, desenvolvido como atividade para o Laboratório 1 da disciplina de LP2. O sistema é executado via console e permite registrar novos pedidos, remover pedidos existentes e listar todos os pedidos ativos. 
+Este projeto é uma solução em Java para gerenciamento de pedidos de um restaurante, desenvolvido como atividade para o Laboratório 1 da disciplina de LP2. O sistema é executado via console e permite registrar novos pedidos, remover pedidos existentes e listar todos os pedidos ativos. 
 
 ## 📋 Funcionalidades
 
